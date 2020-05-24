@@ -1,0 +1,11 @@
+import React, { useState, useEffect } from 'react';
+
+const ${componentConstName} = props => {
+    return (
+        <div className="${componentName}">
+            {/* Component body */}
+        </div>
+    )
+};
+
+export default ${componentConstName};

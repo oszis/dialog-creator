@@ -1,0 +1,41 @@
+[
+  {
+    "component": "layout"
+  },
+  {
+    "component": "form"
+  },
+  {
+    "component": "step-form"
+  },
+  {
+    "component": "with-step"
+  },
+  {
+    "component": "draggable-list"
+  },
+  {
+    "component": "replic"
+  },
+  {
+    "component": "replics"
+  },
+  {
+    "component": "answer"
+  },
+  {
+    "component": "character"
+  },
+  {
+    "component": "dialog"
+  },
+  {
+    "component": "new-replic"
+  },
+  {
+    "component": "answers-form"
+  },
+  {
+    "component": "answer-form-item"
+  }
+]

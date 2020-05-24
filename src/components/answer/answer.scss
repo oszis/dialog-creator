@@ -1,0 +1,11 @@
+.answer {
+    $root: &;
+
+    padding: 5px;
+    border: 1px solid rgba(black, 0.1);
+    margin-bottom: 5px;
+
+    &__text {
+        margin-bottom: 5px;
+    }
+}
